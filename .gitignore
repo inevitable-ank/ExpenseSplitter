@@ -1,0 +1,12 @@
+# Virtual environment
+venv/
+
+# Django database
+*.sqlite3
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+
+# Static files
+/static/
